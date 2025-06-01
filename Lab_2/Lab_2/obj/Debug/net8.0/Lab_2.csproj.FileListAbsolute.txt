@@ -1,0 +1,14 @@
+C:\ІПЗ-23-4\KPZ\Lab_2\Lab_2\bin\Debug\net8.0\Lab_2.exe
+C:\ІПЗ-23-4\KPZ\Lab_2\Lab_2\bin\Debug\net8.0\Lab_2.deps.json
+C:\ІПЗ-23-4\KPZ\Lab_2\Lab_2\bin\Debug\net8.0\Lab_2.runtimeconfig.json
+C:\ІПЗ-23-4\KPZ\Lab_2\Lab_2\bin\Debug\net8.0\Lab_2.dll
+C:\ІПЗ-23-4\KPZ\Lab_2\Lab_2\bin\Debug\net8.0\Lab_2.pdb
+C:\ІПЗ-23-4\KPZ\Lab_2\Lab_2\obj\Debug\net8.0\Lab_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\ІПЗ-23-4\KPZ\Lab_2\Lab_2\obj\Debug\net8.0\Lab_2.AssemblyInfoInputs.cache
+C:\ІПЗ-23-4\KPZ\Lab_2\Lab_2\obj\Debug\net8.0\Lab_2.AssemblyInfo.cs
+C:\ІПЗ-23-4\KPZ\Lab_2\Lab_2\obj\Debug\net8.0\Lab_2.csproj.CoreCompileInputs.cache
+C:\ІПЗ-23-4\KPZ\Lab_2\Lab_2\obj\Debug\net8.0\Lab_2.dll
+C:\ІПЗ-23-4\KPZ\Lab_2\Lab_2\obj\Debug\net8.0\refint\Lab_2.dll
+C:\ІПЗ-23-4\KPZ\Lab_2\Lab_2\obj\Debug\net8.0\Lab_2.pdb
+C:\ІПЗ-23-4\KPZ\Lab_2\Lab_2\obj\Debug\net8.0\Lab_2.genruntimeconfig.cache
+C:\ІПЗ-23-4\KPZ\Lab_2\Lab_2\obj\Debug\net8.0\ref\Lab_2.dll

@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u0406\u041F\u0417-23-4\\KPZ\\Lab_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0328F5-137C-48AF-AA90-5EE0DF2B84FA}|Lab_1\\Lab_1.csproj|c:\\\u0456\u043F\u0437-23-4\\kpz\\lab_1\\lab_1\\reporting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A0328F5-137C-48AF-AA90-5EE0DF2B84FA}|Lab_1\\Lab_1.csproj|solutionrelative:lab_1\\reporting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0328F5-137C-48AF-AA90-5EE0DF2B84FA}|Lab_1\\Lab_1.csproj|c:\\\u0456\u043F\u0437-23-4\\kpz\\lab_1\\lab_1\\warehouseitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A0328F5-137C-48AF-AA90-5EE0DF2B84FA}|Lab_1\\Lab_1.csproj|solutionrelative:lab_1\\warehouseitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0328F5-137C-48AF-AA90-5EE0DF2B84FA}|Lab_1\\Lab_1.csproj|c:\\\u0456\u043F\u0437-23-4\\kpz\\lab_1\\lab_1\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A0328F5-137C-48AF-AA90-5EE0DF2B84FA}|Lab_1\\Lab_1.csproj|solutionrelative:lab_1\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0328F5-137C-48AF-AA90-5EE0DF2B84FA}|Lab_1\\Lab_1.csproj|c:\\\u0456\u043F\u0437-23-4\\kpz\\lab_1\\lab_1\\money.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A0328F5-137C-48AF-AA90-5EE0DF2B84FA}|Lab_1\\Lab_1.csproj|solutionrelative:lab_1\\money.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0328F5-137C-48AF-AA90-5EE0DF2B84FA}|Lab_1\\Lab_1.csproj|c:\\\u0456\u043F\u0437-23-4\\kpz\\lab_1\\lab_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A0328F5-137C-48AF-AA90-5EE0DF2B84FA}|Lab_1\\Lab_1.csproj|solutionrelative:lab_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Reporting.cs",
+              "DocumentMoniker": "C:\\\u0406\u041F\u0417-23-4\\KPZ\\Lab_1\\Lab_1\\Reporting.cs",
+              "RelativeDocumentMoniker": "Lab_1\\Reporting.cs",
+              "ToolTip": "C:\\\u0406\u041F\u0417-23-4\\KPZ\\Lab_1\\Lab_1\\Reporting.cs",
+              "RelativeToolTip": "Lab_1\\Reporting.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T08:10:01.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WarehouseItem.cs",
+              "DocumentMoniker": "C:\\\u0406\u041F\u0417-23-4\\KPZ\\Lab_1\\Lab_1\\WarehouseItem.cs",
+              "RelativeDocumentMoniker": "Lab_1\\WarehouseItem.cs",
+              "ToolTip": "C:\\\u0406\u041F\u0417-23-4\\KPZ\\Lab_1\\Lab_1\\WarehouseItem.cs",
+              "RelativeToolTip": "Lab_1\\WarehouseItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T08:09:46.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\\u0406\u041F\u0417-23-4\\KPZ\\Lab_1\\Lab_1\\Product.cs",
+              "RelativeDocumentMoniker": "Lab_1\\Product.cs",
+              "ToolTip": "C:\\\u0406\u041F\u0417-23-4\\KPZ\\Lab_1\\Lab_1\\Product.cs",
+              "RelativeToolTip": "Lab_1\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T08:09:24.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Money.cs",
+              "DocumentMoniker": "C:\\\u0406\u041F\u0417-23-4\\KPZ\\Lab_1\\Lab_1\\Money.cs",
+              "RelativeDocumentMoniker": "Lab_1\\Money.cs",
+              "ToolTip": "C:\\\u0406\u041F\u0417-23-4\\KPZ\\Lab_1\\Lab_1\\Money.cs",
+              "RelativeToolTip": "Lab_1\\Money.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T08:09:11.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\\u0406\u041F\u0417-23-4\\KPZ\\Lab_1\\Lab_1\\Program.cs",
+              "RelativeDocumentMoniker": "Lab_1\\Program.cs",
+              "ToolTip": "C:\\\u0406\u041F\u0417-23-4\\KPZ\\Lab_1\\Lab_1\\Program.cs",
+              "RelativeToolTip": "Lab_1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T08:08:44.757Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
